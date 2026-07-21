@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fernanda Fajardo 👋</h1>
-<h3 align="center">Software Engineering Student | Web Development | SQL & Data | AEM Content Author</h3>
+<h3 align="center">Software Engineering Student | SQL & Data | Web Development | AEM Content Author</h3>
 
 <p align="center">
   <a href="https://github.com/FernandaFT">
@@ -9,4 +9,3 @@
 
 <p align="center">
   <a href="https://github.com/FernandaFT">
-    <img src="https://img.shields.io/badge/GitHub-FernandaFT-181717?style=for-the
