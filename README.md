@@ -88,7 +88,7 @@ My goal is to continue growing in roles related to:
 - SQL Development and Database Engineering
 - Data Engineering and Business Intelligence
 - Software and Web Development
-- Front-End Development
+- Back-End Development
 - Cloud and data-platform technologies
 
 I enjoy learning new technologies, solving problems, improving processes, and transforming requirements into functional and maintainable solutions.
