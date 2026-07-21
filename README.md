@@ -26,8 +26,8 @@ I currently work as a **Custom Software Engineering Sr. Analyst at Accenture**, 
 - **Enterprise web delivery:** AEM page authoring, reusable components, templates, metadata, workflows, validation, publishing, and release support.
 - **Cross-functional collaboration:** direct coordination with clients, business stakeholders, developers, designers, QA teams, Scrum teams, and project managers.
 - **Quality and governance:** responsive validation, content QA, SEO, accessibility, documentation, defect follow-up, and publishing standards.
-- **Software and web development:** C#, .NET, ASP.NET Core MVC, Java, HTML5, CSS3, JavaScript, Bootstrap, authentication, sessions, forms, and role-based interfaces.
-- **SQL and data:** SQL Server, MySQL, MySQL Workbench, relational modeling, ETL, staging areas, dimensional modeling, and BI concepts.
+- **Software and web development:** C#, .NET, ASP.NET Core MVC, Java, Python, PHP, HTML5, CSS3, JavaScript, Bootstrap, authentication, sessions, forms, and role-based interfaces.
+- **SQL and data:** SQL Server, MySQL, MySQL Workbench, relational modeling, ETL, staging areas, dimensional modeling, Docker, and BI concepts.
 
 ---
 
@@ -62,7 +62,7 @@ Academic focus includes software development, object-oriented programming, datab
 ### Languages and Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,bootstrap&perline=7" alt="Programming languages and web technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,php,js,html,css,bootstrap&perline=9" alt="Programming languages and web technologies" />
 </p>
 
 <p align="center">
@@ -75,16 +75,17 @@ Academic focus includes software development, object-oriented programming, datab
 ### Databases, Data and Business Intelligence
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,docker" alt="MySQL and Docker" />
   <img src="https://img.shields.io/badge/SQL-Query_Development-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQL_Server-Database_Development-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL_Workbench-Database_Modeling-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/ETL-Data_Integration-0F766E?style=flat-square" alt="ETL" />
   <img src="https://img.shields.io/badge/Data_Warehouse-Dimensional_Modeling-1D4ED8?style=flat-square" alt="Data Warehouse" />
   <img src="https://img.shields.io/badge/Business_Intelligence-Reporting-7C3AED?style=flat-square" alt="Business Intelligence" />
 </p>
 
-**Core data skills:** relational database design, normalization, joins, views, subqueries, stored procedures, transformations, staging areas, source-to-target mappings, fact tables, dimensions, star schemas, calculated measures, data validation, dashboards, and reporting concepts.
+**Core data skills:** relational database design, normalization, joins, views, subqueries, stored procedures, transformations, staging areas, source-to-target mappings, fact tables, dimensions, star schemas, calculated measures, data validation, containerized environments, dashboards, and reporting concepts.
 
 ### Platforms, Content and Delivery
 
@@ -108,7 +109,7 @@ Academic focus includes software development, object-oriented programming, datab
 | --- | --- | --- |
 | **Sistema de Gestión de Horas** | SQL Server, Data Warehouse, ETL, staging area, multidimensional model | BI solution for planned versus worked hours, overtime, workloads, project costs, resource allocation, fact and dimension tables, and calculated metrics. |
 | [**Ministerio Gosén**](https://github.com/FernandaFT/MinisterioGosen) | ASP.NET Core MVC, C#, SQL Server, HTML, CSS, JavaScript, Bootstrap | Web platform with registration, authentication, roles, session-based navigation, appointments, reports, profile management, password changes, validations, and responsive UI. |
-| [**Java and Software Engineering Projects**](https://github.com/FernandaFT?tab=repositories) | Java, OOP, data structures, APIs, client-server applications | Academic projects focused on application architecture, programming fundamentals, database integration, and collaborative development. |
+| [**Java and Software Engineering Projects**](https://github.com/FernandaFT?tab=repositories) | Java, Python, PHP, OOP, data structures, APIs, client-server applications | Academic projects focused on application architecture, programming fundamentals, database integration, and collaborative development. |
 
 ---
 
