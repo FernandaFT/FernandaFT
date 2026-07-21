@@ -90,8 +90,8 @@ Growing toward roles in **SQL Development, Database Engineering, Data Engineerin
 ## 📊 Profile Analysis
 
 <p align="center">
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FernandaFT&theme=github_dark" alt="Fernanda's GitHub Stats" />
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FernandaFT&theme=github_dark" alt="Top Languages" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FernandaFT&theme=github_dark" alt="Fernanda's GitHub Stats" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FernandaFT&theme=github_dark" alt="Top Languages" />
 </p>
 
 <h3 align="center">Contribution Streak</h3>
