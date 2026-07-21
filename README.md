@@ -119,6 +119,9 @@ I enjoy learning new technologies, solving problems, improving processes, and tr
   <a href="https://github.com/FernandaFT">
     <img src="https://img.shields.io/badge/GitHub-FernandaFT-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
+  <a href="https://www.linkedin.com/in/fernanda-fajardo-torres-684273125/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fernanda%20Fajardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
 </p>
 
 ---
