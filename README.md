@@ -93,15 +93,24 @@ My goal is to continue growing in roles related to:
 
 I enjoy learning new technologies, solving problems, improving processes, and transforming requirements into functional and maintainable solutions.
 
-## 📊 GitHub Statistics
-
+<h2>Profile Analysis</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FernandaFT&theme=github" alt="Fernanda's GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FernandaFT&theme=github" alt="Fernanda's most used languages" />
+  <a href="https://github.com/FernandaFT">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaFT&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark" alt="FernandaFT most used languages" />
+  </a>
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandaFT&theme=github" alt="Fernanda's GitHub contribution activity" />
+  <a href="https://github.com/FernandaFT">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandaFT&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/FernandaFT">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=FernandaFT&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/FernandaFT">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandaFT&hide_border=true&theme=dark" alt="FernandaFT GitHub streak" />
+  </a>
 </p>
 
 ## 📫 Connect With Me
