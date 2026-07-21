@@ -7,6 +7,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/FernandaFT">
+    <img src="https://img.shields.io/badge/GitHub-FernandaFT-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/fernanda-fajardo-torres-684273125/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fernanda%20Fajardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+</p>
+
 ## 👩‍💻 About Me
 
 I am a **Computer Systems Engineering student at Universidad Fidélitas** and a technology professional with experience in web content management, software projects, quality validation, and collaboration within Agile teams.
@@ -20,6 +29,16 @@ I am strengthening my technical profile toward **software development, SQL, data
 - 💡 Interested in Software Engineering, SQL Development, Data Engineering, Business Intelligence, and Front-End Development
 - 🤝 Experienced in Agile environments, stakeholder collaboration, QA, documentation, and release support
 - 📍 Based in Costa Rica
+
+## 💼 Work Experience
+
+### Custom Software Engineering Sr. Analyst — Accenture
+**November 2021 – Present**
+
+- Work across multiple client accounts as an **Adobe Experience Manager Content Author**, creating, configuring, maintaining, validating, and publishing web pages.
+- Configure reusable components, templates, content structures, and workflows while collaborating with development, design, QA, project management, and business stakeholders.
+- Support visual validation, release activities, SEO, accessibility, technical documentation, issue tracking, and Agile delivery using tools such as Azure DevOps and Jira.
+- Contribute as a backup lead by helping coordinate tasks, communicate progress, identify blockers, and support team delivery.
 
 ## 🛠️ Technologies and Tools
 
