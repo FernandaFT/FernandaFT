@@ -87,6 +87,8 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 
 ![Tools](https://skillicons.dev/icons?i=git,github,azure,vscode,visualstudio,idea)
 
+![Agile](https://img.shields.io/badge/Agile-Delivery-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-Framework-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
 **Git, GitHub, Azure DevOps, Jira, Confluence, Scrum, Agile delivery, QA, release management and technical documentation.**
 
 ## 🏅 Certifications
