@@ -69,14 +69,21 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 
 ### Platforms and Delivery
 
+#### Content Management Systems (CMS)
+
 <p>
-  <img src="https://img.shields.io/badge/Adobe_Experience_Manager-AEM-EB1000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Experience Manager" />
-  <img src="https://img.shields.io/badge/Contentful-CMS-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobe.svg" width="48" height="48" alt="Adobe Experience Manager logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/contentful/2478CC" width="48" height="48" alt="Contentful logo" />
 </p>
+
+**Adobe Experience Manager (AEM) · Contentful**
+
+#### Delivery and Collaboration Tools
 
 ![Tools](https://skillicons.dev/icons?i=git,github,azure,vscode,visualstudio,idea)
 
-**Adobe Experience Manager, Contentful, Git, GitHub, Azure DevOps, Jira, Confluence, Scrum, Agile delivery, QA, release management and technical documentation.**
+**Git, GitHub, Azure DevOps, Jira, Confluence, Scrum, Agile delivery, QA, release management and technical documentation.**
 
 ## 🏅 Certifications
 
