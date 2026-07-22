@@ -75,9 +75,11 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobe.svg" width="48" height="48" alt="Adobe Experience Manager logo" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/contentful/2478CC" width="48" height="48" alt="Contentful logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" width="48" height="48" alt="WordPress logo" />
 </p>
 
-**Adobe Experience Manager (AEM) · Contentful**
+**Adobe Experience Manager (AEM) · Contentful · WordPress**
 
 #### Delivery and Collaboration Tools
 
