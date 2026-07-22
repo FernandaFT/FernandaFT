@@ -125,11 +125,11 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://www.credly.com/users/fernanda-fajardo.edd2ed8c" target="_blank">
+      <a href="https://certification.adobe.com/credential/verify/37d8bc22-4a3b-11f1-be16-42010a400fe2#" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobe.svg" width="65" height="65" alt="Adobe logo" /><br />
         <strong>Adobe Certified Professional</strong><br />
         <sub>AEM Business Practitioner</sub><br />
-        <sub>Verify on Credly</sub>
+        <sub>Verify with Adobe</sub>
       </a>
     </td>
     <td align="center" width="33%">
