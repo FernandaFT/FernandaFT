@@ -83,7 +83,7 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/adobe/FF0000" width="65" height="65" alt="Adobe logo" /><br />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobe.svg" width="65" height="65" alt="Adobe logo" /><br />
       <strong>Adobe Certified Professional</strong><br />
       <sub>AEM Business Practitioner</sub>
     </td>
