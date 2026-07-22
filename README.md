@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernanda_Fajardo-C77DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-fajardo-torres-684273125/)
 [![GitHub](https://img.shields.io/badge/GitHub-FernandaFT-6D597A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandaFT)
+[![Email](https://img.shields.io/badge/Email-fernandafajardot%40gmail.com-E78FB3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandafajardot@gmail.com)
 
 <br />
 
