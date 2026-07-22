@@ -1,14 +1,32 @@
-# Hi, I'm Fernanda Fajardo 👋
+<div align="center">
 
-### Software Engineering | SQL & Data | Web Development | Adobe Experience Manager
+# ✨ Hi, I'm Fernanda Fajardo ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernanda_Fajardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-fajardo-torres-684273125/) [![GitHub](https://img.shields.io/badge/GitHub-FernandaFT-181717?style=for-the-badge&logo=github)](https://github.com/FernandaFT)
+### 🌸 Software Engineering · SQL & Data · Web Development · Adobe Experience Manager 🌸
 
-![Role](https://img.shields.io/badge/Role-Custom_Software_Engineering_Sr_Analyst-6A1B9A) ![Experience](https://img.shields.io/badge/Experience-8%2B_Years-1D4ED8) ![Location](https://img.shields.io/badge/Location-Costa_Rica-0284C7) ![Views](https://komarev.com/ghpvc/?username=FernandaFT&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1100&color=C77DAD&center=true&vCenter=true&width=850&lines=Building+digital+experiences+with+creativity+and+purpose;Turning+ideas+and+data+into+meaningful+solutions;Always+learning%2C+creating+and+growing+in+technology" alt="Professional introduction animation" />
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernanda_Fajardo-C77DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-fajardo-torres-684273125/)
+[![GitHub](https://img.shields.io/badge/GitHub-FernandaFT-6D597A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandaFT)
+
+<br />
+
+![Role](https://img.shields.io/badge/💼_Role-Custom_Software_Engineering_Sr_Analyst-B565A7?style=flat-square)
+![Experience](https://img.shields.io/badge/✨_Experience-8%2B_Years-D291BC?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Location-Costa_Rica-E0AFA0?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=FernandaFT&label=Profile+Views&color=C77DAD&style=flat-square)
+
+</div>
+
+---
 
 ## 👩‍💻 Professional Profile
 
-Computer Systems Engineering student at **Universidad Fidélitas** and technology professional with **8+ years of experience** in enterprise web delivery. My background combines **Adobe Experience Manager, web content development, responsive implementation, QA, releases, SEO, accessibility, documentation, Agile collaboration, software development, SQL, databases, Data Warehousing, ETL and Business Intelligence**.
+I am a **Computer Systems Engineering student at Universidad Fidélitas** and a technology professional with **8+ years of experience** creating and supporting enterprise digital experiences. I combine creativity, attention to detail and technical thinking to deliver reliable, accessible and user-focused solutions.
+
+My professional background includes **Adobe Experience Manager, web content development, responsive implementation, QA, release support, SEO, accessibility, technical documentation and Agile collaboration**. I am also strengthening my expertise in **software development, SQL, databases, Data Warehousing, ETL and Business Intelligence**, with the goal of continuing to grow into roles where technology, data and meaningful digital experiences come together.
 
 ## 💼 Professional Experience
 
