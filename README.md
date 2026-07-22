@@ -112,11 +112,11 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.credly.com/users/fernanda-fajardo.edd2ed8c" target="_blank">
+      <a href="https://www.linkedin.com/in/fernanda-fajardo-torres-684273125/details/certifications/" target="_blank">
         <img src="https://cdn.simpleicons.org/scrumalliance/009FDA" width="65" height="65" alt="Scrum logo" /><br />
         <strong>Scrum Fundamentals</strong><br />
         <sub>Certified</sub><br />
-        <sub>Verify on Credly</sub>
+        <sub>View on LinkedIn</sub>
       </a>
     </td>
   </tr>
