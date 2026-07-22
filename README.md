@@ -57,9 +57,11 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 
 ### Languages and Web Development
 
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,python,php,js,html,css,bootstrap)
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,php,js,html,css,bootstrap)
 
-**C#, .NET, ASP.NET Core MVC, Java, Python, PHP, JavaScript, HTML5, CSS3, Bootstrap, responsive design, accessibility, SEO, authentication, sessions, forms and role-based interfaces.**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-ORM-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**C#, .NET, ASP.NET Core MVC, Dapper, Java, Spring Boot, Python, PHP, JavaScript, HTML5, CSS3, Bootstrap, responsive design, accessibility, SEO, authentication, sessions, forms and role-based interfaces.**
 
 ### Databases, Data and Business Intelligence
 
