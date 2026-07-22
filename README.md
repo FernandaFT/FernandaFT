@@ -179,5 +179,5 @@ Growing toward roles in **SQL Development, Database Engineering, Data Engineerin
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=780&lines=Responsible%2C+proactive+and+collaborative;Committed+to+continuous+learning;Always+growing+professionally" alt="Animated professional values" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF69B4&center=true&vCenter=true&width=780&lines=Responsible%2C+proactive+and+collaborative;Committed+to+continuous+learning;Always+growing+professionally" alt="Animated professional values" />
 </p>
