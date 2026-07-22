@@ -80,15 +80,25 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 
 ## 🏅 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe_Certified_Professional-AEM_Business_Practitioner-EB1000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Professional AEM Business Practitioner" />
-  <img src="https://img.shields.io/badge/Contentful_Certified-Content_Manager-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful Certified Content Manager" />
-  <img src="https://img.shields.io/badge/Scrum_Fundamentals-Certified-009FDA?style=for-the-badge" alt="Scrum Fundamentals Certified" />
-</p>
-
-- **Adobe Certified Professional — AEM Business Practitioner**
-- **Contentful Certified Content Manager**
-- **Scrum Fundamentals Certified**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/adobe/FF0000" width="65" height="65" alt="Adobe logo" /><br />
+      <strong>Adobe Certified Professional</strong><br />
+      <sub>AEM Business Practitioner</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/contentful/2478CC" width="65" height="65" alt="Contentful logo" /><br />
+      <strong>Contentful Certified</strong><br />
+      <sub>Content Manager</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/scrumalliance/009FDA" width="65" height="65" alt="Scrum logo" /><br />
+      <strong>Scrum Fundamentals</strong><br />
+      <sub>Certified</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
