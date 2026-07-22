@@ -80,22 +80,37 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 
 ## 🏅 Certifications
 
+<p align="center">
+  <a href="https://www.credly.com/users/fernanda-fajardo.edd2ed8c" target="_blank">
+    <img src="https://img.shields.io/badge/View_Verified_Badges-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View verified badges on Credly" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobe.svg" width="65" height="65" alt="Adobe logo" /><br />
-      <strong>Adobe Certified Professional</strong><br />
-      <sub>AEM Business Practitioner</sub>
+      <a href="https://www.credly.com/users/fernanda-fajardo.edd2ed8c" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobe.svg" width="65" height="65" alt="Adobe logo" /><br />
+        <strong>Adobe Certified Professional</strong><br />
+        <sub>AEM Business Practitioner</sub><br />
+        <sub>Verify on Credly</sub>
+      </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/contentful/2478CC" width="65" height="65" alt="Contentful logo" /><br />
-      <strong>Contentful Certified</strong><br />
-      <sub>Content Manager</sub>
+      <a href="https://www.credly.com/users/fernanda-fajardo.edd2ed8c" target="_blank">
+        <img src="https://cdn.simpleicons.org/contentful/2478CC" width="65" height="65" alt="Contentful logo" /><br />
+        <strong>Contentful Certified</strong><br />
+        <sub>Content Manager</sub><br />
+        <sub>Verify on Credly</sub>
+      </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/scrumalliance/009FDA" width="65" height="65" alt="Scrum logo" /><br />
-      <strong>Scrum Fundamentals</strong><br />
-      <sub>Certified</sub>
+      <a href="https://www.credly.com/users/fernanda-fajardo.edd2ed8c" target="_blank">
+        <img src="https://cdn.simpleicons.org/scrumalliance/009FDA" width="65" height="65" alt="Scrum logo" /><br />
+        <strong>Scrum Fundamentals</strong><br />
+        <sub>Certified</sub><br />
+        <sub>Verify on Credly</sub>
+      </a>
     </td>
   </tr>
 </table>
