@@ -59,9 +59,9 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,php,js,html,css,bootstrap)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-ORM-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-ORM-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-ORM-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core APIs](https://img.shields.io/badge/ASP.NET_Core-Web_APIs-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**C#, .NET, ASP.NET Core MVC, Dapper, Java, Spring Boot, Python, PHP, JavaScript, HTML5, CSS3, Bootstrap, responsive design, accessibility, SEO, authentication, sessions, forms and role-based interfaces.**
+**C#, .NET, ASP.NET Core MVC, ASP.NET Core Web APIs, Entity Framework Core, Dapper, Java, Spring Boot, Python, PHP, JavaScript, HTML5, CSS3, Bootstrap, responsive design, RESTful APIs, authentication, authorization, sessions, forms, accessibility, SEO and role-based interfaces.**
 
 ### Databases, Data and Business Intelligence
 
