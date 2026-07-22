@@ -69,9 +69,26 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 
 ### Platforms and Delivery
 
+<p>
+  <img src="https://img.shields.io/badge/Adobe_Experience_Manager-AEM-EB1000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Experience Manager" />
+  <img src="https://img.shields.io/badge/Contentful-CMS-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
+</p>
+
 ![Tools](https://skillicons.dev/icons?i=git,github,azure,vscode,visualstudio,idea)
 
-**Adobe Experience Manager, Git, GitHub, Azure DevOps, Jira, Confluence, Scrum, Agile delivery, QA, release management and technical documentation.**
+**Adobe Experience Manager, Contentful, Git, GitHub, Azure DevOps, Jira, Confluence, Scrum, Agile delivery, QA, release management and technical documentation.**
+
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe_Certified_Professional-AEM_Business_Practitioner-EB1000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Professional AEM Business Practitioner" />
+  <img src="https://img.shields.io/badge/Contentful_Certified-Content_Manager-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful Certified Content Manager" />
+  <img src="https://img.shields.io/badge/Scrum_Fundamentals-Certified-009FDA?style=for-the-badge" alt="Scrum Fundamentals Certified" />
+</p>
+
+- **Adobe Certified Professional — AEM Business Practitioner**
+- **Contentful Certified Content Manager**
+- **Scrum Fundamentals Certified**
 
 ## 🚀 Featured Projects
 
