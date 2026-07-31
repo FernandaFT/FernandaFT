@@ -163,7 +163,7 @@ Software development, OOP, databases, SQL, data structures, algorithms, web deve
 
 ## 🎯 Professional Direction
 
-Growing toward roles in **SQL Development, Database Engineering, Data Engineering, Business Intelligence, Software Engineering, Back-End Development, Web Development and Content Technology**.
+Growing toward roles in **SQL Development, Database Engineering, Data Engineering, Software Engineering, Back-End Development, Web Development and Content Technology**.
 
 ## 📊 Profile Analysis
 
