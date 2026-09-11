@@ -35,7 +35,7 @@ My professional background includes **Adobe Experience Manager, web content deve
 |---|---|---|---|
 | **Nov 2021 – Present** | **Custom Software Engineering Sr. Analyst** | **Accenture** | AEM content authoring, enterprise web delivery, QA, releases, SEO, accessibility, Agile coordination and backup-lead support. |
 | **Aug 2021 – Oct 2021** | **Sr. Content Developer** | **Publicis Global Delivery** | End-to-end web-page development, component implementation, content integration, validation, publishing and workflow optimization. |
-| **May 2018 – Aug 2021** | **Web Content Developer** | **Critical Mass** | Responsive web implementation, component configuration, accessibility, documentation, Jira management and cross-functional collaboration. |
+| **May 2018 – Aug 2021** | **Web Content Author** | **Critical Mass** | Responsive web implementation, component configuration, accessibility, documentation, Jira management and cross-functional collaboration. |
 
 ### 🟣 Accenture
 **Custom Software Engineering Sr. Analyst · November 2021 – Present**
